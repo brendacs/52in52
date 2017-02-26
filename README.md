@@ -31,6 +31,8 @@ With all sorts of excuses while in college, side projects can easily be brushed 
 ###Technical
 * Solidify foundation in HTML/CSS
 * Become more advanced and familiar with JS
+* Get better at creating responsive sites
+* Start some projects with a mobile-first approach
 * Get better at using CSS preprocessors efficiently
 * Become more familiar with task-runners and other front-end tools
 * Revisit Rails and build something with it
