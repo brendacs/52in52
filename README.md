@@ -6,13 +6,13 @@ This is a challenge to code 52 websites in 52 weeks. Most of the time, only week
 
 ##Join me
 
-*Fork this repo
-*Change the start date in [Rules](rules.md)
-*Edit this README
-  *Let us know your reason for joining
-  *Set your goals for the year
-*Make one website or web app every week
-*Commit to the [Log](log.md) weekly
+* Fork this repo
+* Change the start date in [Rules](rules.md)
+* Edit this README
+  * Let us know your reason for joining
+  * Set your goals for the year
+* Make one website or web app every week
+* Commit to the [Log](log.md) weekly
 
 ##Why I am doing it
 
@@ -23,15 +23,15 @@ With all sorts of excuses while in college, side projects can easily be brushed 
 ##Goals
 
 ###General
-*Make something fun
-*Make something pretty
-*Solve some real problems
-*Be extra creative
+* Make something fun
+* Make something pretty
+* Solve some real problems
+* Be extra creative
 
 ###Technical
-*Solidify foundation in HTML/CSS
-*Become more advanced and familiar with JS
-*Get better at using CSS preprocessors efficiently
-*Become more familiar with task-runners and other front-end tools
-*Revisit Rails and build something with it
-*Learn React.js and other JS frameworks
+* Solidify foundation in HTML/CSS
+* Become more advanced and familiar with JS
+* Get better at using CSS preprocessors efficiently
+* Become more familiar with task-runners and other front-end tools
+* Revisit Rails and build something with it
+* Learn React.js and other JS frameworks
