@@ -1,4 +1,4 @@
-#5 2 in 52: A personal coding challenge
+# 52 in 52: A personal coding challenge
 
 ## What this is
 
