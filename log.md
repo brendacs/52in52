@@ -35,3 +35,5 @@ For weather, I used [simpleWeather.js](http://simpleweatherjs.com/) instead of t
 I've been on StackOverflow and other sites what seems like 100 times for this project and you can see what I meant when I said it was like three projects in one because of all the different tools, APIs, and plugins I had to learn to use and everything I had to learn and accomplish to get features working the way I envisioned... all in three days. I think this makes up for the two weeks I missed. ;)
 
 P.S. Once it's finished processing and is fully public, I'll add the link to the Chrome extension on the Chrome Store!
+
+Update: [Here's the link!](https://chrome.google.com/webstore/detail/newsworthy-new-tab/cchbijaebfampphbbmjmlkchojhnlloj?hl=en&gl=US&authuser=1)
